@@ -1,0 +1,11 @@
+# Ignored directories
+/.vscode/
+dist/
+node_modules/
+
+# Ignored files
+.prettierrc
+.prettierignore
+.eslintignore
+.eslintrc.js
+webpack.config.js

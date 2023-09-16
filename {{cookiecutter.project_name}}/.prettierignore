@@ -1,0 +1,7 @@
+# Ignored directories
+dist/
+node_modules/
+
+# Ignored files
+webpack.config.js
+.eslintrc.js
